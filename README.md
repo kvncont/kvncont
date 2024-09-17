@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Hi! I'm Kevin Contreras 👋
 
-<!--
-**kvncont/kvncont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I'm from **Costa Rica** 🇨🇷 and currently working as a **DevOps Engineer** in **BAC Credomatic**, with **6 years** of experience. I love automating processes and making infrastructure easier to manage.
 
-Here are some ideas to get you started:
+🔧 **Technologies and Tools I work with:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗂 **Git** - Version control and agile collaboration
+- 🐳 **Docker** - Application containerization
+- ☸️ **Kubernetes** - Container orchestration
+- 🔧 **Jenkins** - Continuous integration and delivery
+- ☁️ **Azure Pipelines** - Cloud CI/CD and deployments
+- ⚙️ **GitHub Actions** - Workflow automation in GitHub
+- 🌍 **Terraform** - Infrastructure as Code
+- 🧑‍💻 **DevContainers** - Consistent development environments
+- 🎩 **Helm** - Kubernetes application management
+- 🚀 **ArgoCD** - Continuous delivery on Kubernetes
+- ☁️ **Azure** - Cloud infrastructure and services
+- ☁️ **AWS** - Learning and expanding my cloud skills
+
+---
+
+💡 I'm passionate about building scalable and robust solutions to make life easier for development teams, and I'm always looking for new technologies to improve DevOps processes.
